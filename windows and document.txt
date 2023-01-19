@@ -1,0 +1,11 @@
+Difference between windows and document
+       
+
+  Windows
+        windows is a viewing screen on the computer.It was published by microsoft.windows containing more features like back button,forward button,
+reload option,search bar,etc.It may also contain a certain designs for the logo.windows also containing features like active directory where we can give the permission
+to the other computer to acess files.some files are not supported by lower windows edition.It contain several parts like document and etc.
+  Document 
+         Document is the part of the windows.It contain the topics or the solution for the question which we are searching.some document can be editted by the user.
+Document can be public or private.public document can be viewed by anyone.private document can be viewed by users those who having access or password.Document
+is the most widly used part in windows
